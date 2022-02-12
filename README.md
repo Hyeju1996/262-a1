@@ -1,4 +1,4 @@
-# Cahrt.js
+# Chart.js
 
 ## How I install 
 
